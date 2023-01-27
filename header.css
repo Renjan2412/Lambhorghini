@@ -37,21 +37,7 @@ body{
 .owner{
     padding-left: 30px;
 }
-.motor{
-    padding-left: 30px;
-}
-.dealer{
-    padding-left: 80px; 
-}
-.museum{
-    padding-left: 30px;
-}
-.store{
-    padding-left: 30px;
-}
-.pic{
-    font-size: 0px;
-}
+
 .first-img{
     width: 100%;
     margin: 0;
